@@ -12,8 +12,7 @@
     background-position: center;
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: center;
+    justify-content: space-evenly;
     align-self: baseline;
     align-items: center;
     padding: 0px 20px;
@@ -31,4 +30,9 @@
 #social {
     background-image: url(./Social\ Background.png);
     width: 100vw;
+    height: 20vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 200px, 200px, 0px, 0px;
+    
 }
