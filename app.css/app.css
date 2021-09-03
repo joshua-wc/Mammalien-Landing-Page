@@ -1,3 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
 #background {
     background-image: url(./Background.jpg);
     height: 100vh;
