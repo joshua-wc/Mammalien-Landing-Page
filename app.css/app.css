@@ -27,3 +27,8 @@
 #background h3 {
     font-size: 25px;
 }
+
+#social {
+    background-image: url(./Social\ Background.png);
+    width: 100vw;
+}
