@@ -10,4 +10,10 @@
     height: 100vh;
     background-size: cover;
     background-position: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 20px;
 }
