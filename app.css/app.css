@@ -12,7 +12,7 @@
     background-position: center;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-self: baseline;
     align-items: center;
     padding: 0px 20px;
@@ -20,7 +20,7 @@
 
 #background h1 {
     font-size: 50px;
-
+    margin: 10vh;
 }
 
 #background h3 {
@@ -31,7 +31,7 @@
     background-image: url(./Social\ Background.png);
     width: 100vw;
     height: 20vh;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     margin: 200px, 200px, 0px, 0px;
     
